@@ -1,0 +1,31 @@
+#divSearchJobs_c.yui-panel-container {
+	position:relative;
+}
+
+#divSearchJobs.yui-dialog {
+	position:relative;
+}
+
+#divSearchJobNodes_c.yui-panel-container {
+	position:relative;
+}
+
+#divSearchJobNodes.yui-dialog {
+	position:relative;
+}
+
+#divSearchNodes_c.yui-panel-container {
+	position:relative;
+}
+
+#divSearchNodes.yui-dialog {
+	position:relative;
+}
+
+#divSearchNodeJobs_c.yui-panel-container {
+	position:relative;
+}
+
+#divSearchNodeJobs.yui-dialog {
+	position:relative;
+}
